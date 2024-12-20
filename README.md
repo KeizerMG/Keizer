@@ -11,10 +11,10 @@ Je suis étudiant à l'école Coda à Orléans. Vous trouverez ici tous les proj
 Pour en savoir plus, n'hésitez pas à me contacter :
 - Email : [mathis.guedy@coda-student.school](mathis.guedy@coda-student.school)
 
-- <p align="center">
-  
-  <
-<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="Bienvenue !">
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coding GIF" width="600">
+
+
 </p>
 
 ---
